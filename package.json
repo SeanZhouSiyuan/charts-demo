@@ -9,6 +9,7 @@
   "author": "Sean Zhou",
   "license": "ISC",
   "dependencies": {
+    "echarts": "^4.2.0-rc.2",
     "highcharts": "^6.2.0"
   },
   "devDependencies": {
