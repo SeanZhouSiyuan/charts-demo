@@ -9,6 +9,10 @@
   "author": "Sean Zhou",
   "license": "ISC",
   "dependencies": {
+    "@antv/data-set": "^0.10.1",
+    "@antv/f2": "^3.2.4",
+    "@antv/g2": "^3.3.4",
+    "@antv/g2-plugin-slider": "^2.1.0",
     "echarts": "^4.2.0-rc.2",
     "highcharts": "^6.2.0"
   },

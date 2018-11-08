@@ -22,6 +22,6 @@ module.exports = {
         contentBase: path.resolve(__dirname, 'dist'),
         watchContentBase: true,
         open: true,
-        port: 8081
+        port: 8080
     }
 };
